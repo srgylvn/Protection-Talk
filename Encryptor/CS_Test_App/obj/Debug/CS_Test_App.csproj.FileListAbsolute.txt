@@ -1,0 +1,8 @@
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\bin\Debug\CS_Test_App.exe
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\bin\Debug\CS_Test_App.pdb
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\obj\Debug\ResolveAssemblyReference.cache
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\obj\Debug\CS_Test_App.Form1.resources
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\obj\Debug\CS_Test_App.Properties.Resources.resources
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\obj\Debug\CS_Test_App.csproj.GenerateResource.Cache
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\obj\Debug\CS_Test_App.exe
+D:\SVN\Reports\JitHookTechique\SampleSources\Encryptor\CS_Test_App\obj\Debug\CS_Test_App.pdb

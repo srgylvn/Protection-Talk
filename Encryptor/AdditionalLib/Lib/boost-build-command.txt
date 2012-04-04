@@ -1,0 +1,1 @@
+bjam.exe link=static toolset=msvc-9.0 runtime-link=static

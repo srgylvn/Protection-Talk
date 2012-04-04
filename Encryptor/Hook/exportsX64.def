@@ -1,0 +1,6 @@
+LIBRARY	"JitHookCoreX64"
+
+EXPORTS
+    ; Explicit exports can go here
+	; Init
+	; GetVersionInfo

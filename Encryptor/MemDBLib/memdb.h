@@ -1,0 +1,15 @@
+#pragma once
+
+#include "memdb_struct.h"
+#include "DataSet.h"
+#include "DataTable.hpp"
+#include "../Utils/from_string.hpp"
+#include "helper_macros.h"
+#include "IColumnNameResolver.hpp"
+#include "IDataTable.h"
+#include "InvalidColumnNameException.h"
+#include "IRowsFilter.h"
+#include "ICustomColumns.h"
+#include "Variant.h"
+#include "HelperFilters.h"
+#include "IdentityColumn.hpp"

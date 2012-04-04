@@ -1,0 +1,6 @@
+LIBRARY	"JitHookCore"
+
+EXPORTS
+    ; Explicit exports can go here
+	Init
+	GetVersionInfo

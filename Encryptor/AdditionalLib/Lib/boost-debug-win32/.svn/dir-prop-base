@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 44
+libboost_serialization-vc90-mt-sgd-1_42.lib
+
+K 15
+tsvn:logminsize
+V 2
+32
+END
